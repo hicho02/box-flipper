@@ -1,0 +1,8 @@
+App(
+    appid="punchout_lucha",
+    name="Punch-Out Lucha",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="punchout_lucha_app",
+    requires=["gui"],
+    stack_size=1024,
+)
