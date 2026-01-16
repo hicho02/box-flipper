@@ -31,7 +31,7 @@ Watch your opponent closely. When they flash, they are about to punch. **Dodge!*
 
 If you enjoy my retro-style games and would like to support my work for future projects or just buy me a coffee, you can contribute to my Solana wallet. Every bit of support helps me keep creating!
 
-Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
+### Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
 
 
 ---
@@ -64,5 +64,5 @@ Observa al enemigo. Cuando parpadee, está a punto de golpear. **¡Esquiva!** Si
 
 Si disfrutas de mis juegos estilo retro y te gustaría apoyar mi trabajo para futuros proyectos o simplemente invitarme un café, puedes colaborar en mi cartera de Solana. ¡Cualquier apoyo me ayuda a seguir creando!
 
-Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
+### Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
 
