@@ -27,6 +27,14 @@ A retro-style boxing game for the Flipper Zero, inspired by classics like Punch-
 Watch your opponent closely. When they flash, they are about to punch. **Dodge!** If you dodge at the right time, the enemy will become vulnerable (an indicator will appear above their head). That's your window to land your punches.
 
 ---
+## ☕ Support the Developer 
+
+If you enjoy my retro-style games and would like to support my work for future projects or just buy me a coffee, you can contribute to my Solana wallet. Every bit of support helps me keep creating!
+
+Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
+
+
+---
 
 ## 🇪🇸 Español
 
@@ -50,4 +58,11 @@ Watch your opponent closely. When they flash, they are about to punch. **Dodge!*
 ### Cómo jugar
 Observa al enemigo. Cuando parpadee, está a punto de golpear. **¡Esquiva!** Si logras esquivar justo a tiempo, el enemigo quedará vulnerable (aparecerá un indicador sobre su cabeza). Ese es el momento de lanzar tus golpes.
 
+
+---
+## ☕ Apoya al Desarrollador
+
+Si disfrutas de mis juegos estilo retro y te gustaría apoyar mi trabajo para futuros proyectos o simplemente invitarme un café, puedes colaborar en mi cartera de Solana. ¡Cualquier apoyo me ayuda a seguir creando!
+
+**Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
 ---
