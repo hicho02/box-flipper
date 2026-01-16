@@ -64,5 +64,5 @@ Observa al enemigo. Cuando parpadee, está a punto de golpear. **¡Esquiva!** Si
 
 Si disfrutas de mis juegos estilo retro y te gustaría apoyar mi trabajo para futuros proyectos o simplemente invitarme un café, puedes colaborar en mi cartera de Solana. ¡Cualquier apoyo me ayuda a seguir creando!
 
-**Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
+Solana Wallet (SOL): 2zL5GWkFmtYNeHJfpHkmaPFT24TaihFVwEJ5XV1irgWq
 ---
